@@ -1,0 +1,488 @@
+[
+  {
+    "id": "menu.js",
+    "name": "Menu",
+    "category": "عام",
+    "enabledByDefault": true
+  },
+  {
+    "id": "logo/text_logo.js",
+    "name": "Text Logo",
+    "category": "التصميم والشعارات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "search/image.js",
+    "name": "Image",
+    "category": "البحث",
+    "enabledByDefault": true
+  },
+  {
+    "id": "search/wiki.js",
+    "name": "Wiki",
+    "category": "البحث",
+    "enabledByDefault": true
+  },
+  {
+    "id": "stickers/s.js",
+    "name": "S",
+    "category": "الملصقات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "stickers/sticker.js",
+    "name": "Sticker",
+    "category": "الملصقات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "voices/changer.js",
+    "name": "Changer",
+    "category": "الصوتيات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "download/fb.js",
+    "name": "Fb",
+    "category": "التنزيلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "download/insta.js",
+    "name": "Insta",
+    "category": "التنزيلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "download/pin.js",
+    "name": "Pin",
+    "category": "التنزيلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "download/spoty.js",
+    "name": "Spoty",
+    "category": "التنزيلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "download/tik.js",
+    "name": "Tik",
+    "category": "التنزيلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "group/channel.js",
+    "name": "Channel",
+    "category": "المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "group/matching.js",
+    "name": "Matching",
+    "category": "المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "group/mylink.js",
+    "name": "Mylink",
+    "category": "المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "group/stories.js",
+    "name": "Stories",
+    "category": "المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "group/test.js",
+    "name": "Test",
+    "category": "المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "auto/auto.js",
+    "name": "Auto",
+    "category": "الردود التلقائية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "auto/replies.js",
+    "name": "Replies",
+    "category": "الردود التلقائية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "auto/welcome.js",
+    "name": "Welcome",
+    "category": "الردود التلقائية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/activations.js",
+    "name": "Activations",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/add.js",
+    "name": "Add",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/del_warning.js",
+    "name": "Del Warning",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/delete.js",
+    "name": "Delete",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/demote.js",
+    "name": "Demote",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/edit_group.js",
+    "name": "Edit Group",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/h.js",
+    "name": "H",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/kick.js",
+    "name": "Kick",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/link_group.js",
+    "name": "Link Group",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/mute.js",
+    "name": "Mute",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/mute_Ghorub.js",
+    "name": "Mute Ghorub",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/promote.js",
+    "name": "Promote",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/req.js",
+    "name": "Req",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/story.js",
+    "name": "Story",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/warning.js",
+    "name": "Warning",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "admins/warnings.js",
+    "name": "Warnings",
+    "category": "إدارة المجموعات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "info/info.js",
+    "name": "Info",
+    "category": "معلومات البوت",
+    "enabledByDefault": true
+  },
+  {
+    "id": "info/ping.js",
+    "name": "Ping",
+    "category": "معلومات البوت",
+    "enabledByDefault": true
+  },
+  {
+    "id": "info/ram.js",
+    "name": "Ram",
+    "category": "معلومات البوت",
+    "enabledByDefault": true
+  },
+  {
+    "id": "guild/avai_nick.js",
+    "name": "Avai Nick",
+    "category": "الألقاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "guild/delete_nick.js",
+    "name": "Delete Nick",
+    "category": "الألقاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "guild/my_nickname.js",
+    "name": "My Nickname",
+    "category": "الألقاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "guild/nickname.js",
+    "name": "Nickname",
+    "category": "الألقاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "guild/nicknames.js",
+    "name": "Nicknames",
+    "category": "الألقاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "sub/azi3a.js",
+    "name": "Azi3A",
+    "category": "البوتات الفرعية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "sub/bots.js",
+    "name": "Bots",
+    "category": "البوتات الفرعية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "sub/follow.js",
+    "name": "Follow",
+    "category": "البوتات الفرعية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "sub/react.js",
+    "name": "React",
+    "category": "البوتات الفرعية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "sub/remove.js",
+    "name": "Remove",
+    "category": "البوتات الفرعية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "sub/statistics.js",
+    "name": "Statistics",
+    "category": "البوتات الفرعية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "sub/sub.js",
+    "name": "Sub",
+    "category": "البوتات الفرعية",
+    "enabledByDefault": true
+  },
+  {
+    "id": "tools/togif.js",
+    "name": "Togif",
+    "category": "الأدوات والتحويلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "tools/toimage.js",
+    "name": "Toimage",
+    "category": "الأدوات والتحويلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "tools/tomp3.js",
+    "name": "Tomp3",
+    "category": "الأدوات والتحويلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "tools/tovideo.js",
+    "name": "Tovideo",
+    "category": "الأدوات والتحويلات",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/3nsrya.js",
+    "name": "3Nsrya",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/apologize.js",
+    "name": "Apologize",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/guesses.js",
+    "name": "Guesses",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/lucky.js",
+    "name": "Lucky",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/marriage_divorce.js",
+    "name": "Marriage Divorce",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/nesba.js",
+    "name": "Nesba",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/top.js",
+    "name": "Top",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/truth.js",
+    "name": "Truth",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "fun/wyr.js",
+    "name": "Wyr",
+    "category": "الترفيه",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/add_plugin.js",
+    "name": "Add Plugin",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/category.js",
+    "name": "Category",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/del_plugin.js",
+    "name": "Del Plugin",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/delete_cash.js",
+    "name": "Delete Cash",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/developers.js",
+    "name": "Developers",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/message_owner.js",
+    "name": "Message Owner",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/profile_bot.js",
+    "name": "Profile Bot",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/promoteme.js",
+    "name": "Promoteme",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "owners/restart.js",
+    "name": "Restart",
+    "category": "إعدادات المالك",
+    "enabledByDefault": true
+  },
+  {
+    "id": "gif/reaction.js",
+    "name": "Reaction",
+    "category": "الصور المتحركة",
+    "enabledByDefault": true
+  },
+  {
+    "id": "ai/ai.js",
+    "name": "Ai",
+    "category": "الذكاء الاصطناعي",
+    "enabledByDefault": true
+  },
+  {
+    "id": "games/LadderAndSnake.js",
+    "name": "Ladderandsnake",
+    "category": "الألعاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "games/chess.js",
+    "name": "Chess",
+    "category": "الألعاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "games/country.js",
+    "name": "Country",
+    "category": "الألعاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "games/eye.js",
+    "name": "Eye",
+    "category": "الألعاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "games/riddle.js",
+    "name": "Riddle",
+    "category": "الألعاب",
+    "enabledByDefault": true
+  },
+  {
+    "id": "games/xo.js",
+    "name": "Xo",
+    "category": "الألعاب",
+    "enabledByDefault": true
+  }
+]
