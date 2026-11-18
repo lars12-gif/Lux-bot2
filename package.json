@@ -1,0 +1,34 @@
+{
+  "name": "lux-bot",
+  "version": "1.0.0",
+  "description": "Lux Bot - منصة عربية لإدارة بوتات واتساب متعددة المستخدمين",
+  "license": "MIT",
+  "author": "Lux Bot contributors",
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "platform": "node platform/server.js"
+  },
+  "dependencies": {
+    "baileys": "npm:@whiskeysockets/baileys@latest",
+    "cheerio": "^1.2.0",
+    "ffmpeg": "^0.0.4",
+    "meowsab": "github:deveni0/meowsab",
+    "repossess": "latest",
+    "qs": "^6.16.1",
+    "sharp": "^0.35.5",
+    "undici": "^8.12.2",
+    "express": "^4.21.2",
+    "better-sqlite3": "^11.8.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "dotenv": "^16.4.7",
+    "helmet": "^8.0.0",
+    "express-rate-limit": "^7.5.0",
+    "cors": "^2.8.5"
+  }
+}
